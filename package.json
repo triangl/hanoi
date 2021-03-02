@@ -4,6 +4,6 @@
   "private": false,
   "dependencies": {
     "requirejs": ">0",
-    "three": "0.58.10"
+    "three": ">=0.125.0"
   }
 }
